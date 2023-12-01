@@ -11,7 +11,7 @@ import (
 
 	"gopkg.in/go-jose/go-jose.v2"
 
-	"github.com/auth0/go-jwt-middleware/v2/internal/oidc"
+	"github.com/rakateja/go-jwt-middleware/v2/internal/oidc"
 )
 
 // Provider handles getting JWKS from the specified IssuerURL and exposes
